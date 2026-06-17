@@ -141,7 +141,7 @@ Depression risk increases when poor sleep, high stress, anxiety, and excessive s
 
 ## Executive Dashboard
 
-![Dashboard](dashboard image.png)
+![Dashboard](dashboard_image.png)
 
 ---
 
